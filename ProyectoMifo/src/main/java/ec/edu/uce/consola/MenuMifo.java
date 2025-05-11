@@ -1,3 +1,4 @@
+// Hola
 package ec.edu.uce.consola;
 import java.util.Scanner;
 import ec.edu.uce.dominio.Usuario;
